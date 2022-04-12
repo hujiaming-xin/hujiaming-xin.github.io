@@ -3,6 +3,8 @@ theme:
   name: material
   logo: assets/favicon.png
   favicon: assets/favicon.png
+  icon:
+    repo: fontawesome/brands/github
   palette: 
     - primary: white
       accent: light blue
