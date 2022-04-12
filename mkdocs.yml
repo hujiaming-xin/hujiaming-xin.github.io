@@ -60,3 +60,14 @@ markdown_extensions:
   - pymdownx.magiclink      # 自动识别超链接
   - pymdownx.tasklist:      # 复选框checklist
       custom_checkbox: true
+nav:
+  - '简介': index.md
+  - '胡学文化':
+    - '胡学/胡学文化/胡音胡韵.md'
+    - '胡学/胡学文化/沙漠风情.md'
+    - '胡学/胡学文化/趣章宜节.md'
+  - '胡氏数学原理':
+    - '二分法': '胡学/胡氏数学原理/二分法.md'
+    - '胡学/胡氏数学原理/基本法.md'
+    - '胡学/胡氏数学原理/椭圆光学.md'
+  - '老胡语录': '老胡语录.md'
