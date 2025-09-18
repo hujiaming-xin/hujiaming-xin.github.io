@@ -1,6 +1,6 @@
 # 数学老胡研究院
 
-官网: https://hujiaming.xin
+[文档地址](https://hujiaming-xin.github.io/)
 
 > 没办法，数学就是这么简单。——《老胡语录·简单篇》
 
